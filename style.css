@@ -530,3 +530,7 @@ p {
 	border-radius: 8px;
 	font-size: 12px;
 }
+.banner-gameover {
+	width: 500px;
+	height: 100px;	
+}
