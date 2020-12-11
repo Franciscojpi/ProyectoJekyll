@@ -139,7 +139,7 @@ p {
 }
 
 #page_menu .online a {
-	background: url('images/menu_online.gif') no-repeat 50% 11px;
+	background: url() no-repeat 50% 11px;
 }
 
 #page_menu .downloads a {
