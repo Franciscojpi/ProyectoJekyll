@@ -66,6 +66,7 @@ p {
 	voice-family: "\"}\""; 
 	voice-family:inherit;
 	width:774px;
+	
 }
 
 #container {
@@ -553,4 +554,25 @@ p {
 	margin-top: 20px;
 	margin-left: 50px;
 	margin-bottom: 50px;
+}
+/*color de las letras del indice derecho*/
+li>a {
+	color: #E7E6E6;
+}
+
+.indice-derecha {
+	float: right;
+	margin-left: -30px;
+	margin-right: 50px;
+	background: #860b09;
+	text-align: justify;
+	margin-top: 100px;
+	font-size: 12px;
+	padding: 6px;
+	width: 300px;
+	border-radius: 8px;
+	color: black;
+}
+.general{
+	display: right;
 }
