@@ -62,11 +62,11 @@ p {
 	background: url('images/content_bgcolor.gif') repeat-x 0px 0px;
 	border: #860b09 2px solid;
 
-	width:54.5%; 
+	width:778px; 
 	voice-family: "\"}\""; 
 	voice-family:inherit;
-	margin-left: 18%;
-	
+	width:774px;
+	margin-left: 200px;
 	
 }
 
@@ -564,16 +564,18 @@ li>a {
 .indice-derecha {
 	float: right;
 	margin-left: -30px;
-	margin-right: 50px;
+	
 	background: #860b09;
 	text-align: justify;
 	margin-top: 100px;
 	font-size: 12px;
 	padding: 6px;
-	width: 300px;
+	width: 275px;
 	border-radius: 8px;
 	color: black;
 }
 .general{
 	display: right;
+	width: 95%;
+
 }
