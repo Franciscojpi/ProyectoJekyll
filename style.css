@@ -62,10 +62,11 @@ p {
 	background: url('images/content_bgcolor.gif') repeat-x 0px 0px;
 	border: #860b09 2px solid;
 
-	width:778px; 
+	width:54.5%; 
 	voice-family: "\"}\""; 
 	voice-family:inherit;
-	width:774px;
+	margin-left: 18%;
+	
 	
 }
 
